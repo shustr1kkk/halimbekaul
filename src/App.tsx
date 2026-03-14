@@ -4,7 +4,7 @@
  */
 
 import { useState } from 'react';
-import { BrowserRouter as Router, Routes, Route, Link, useLocation } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Link, useLocation } from 'react-router-dom';
 import { motion, AnimatePresence } from 'motion/react';
 import { Menu, X, Phone, Mail, Instagram, MapPin } from 'lucide-react';
 import { COMPANY_INFO } from './data';
