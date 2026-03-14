@@ -1,0 +1,8 @@
+{
+    id:'',
+    name:'',
+    category:'',
+    ingredients:'',
+    image:'',
+    weight:''
+},
