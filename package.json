@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://shustr1kkkk.github.io/halimbelaul",
+  "homepage": "https://shustr1kkk.github.io/halimbekaul",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",
